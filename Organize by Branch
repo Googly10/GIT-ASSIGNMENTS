@@ -1,0 +1,7 @@
+Organize by Branch
+
+On feature/* branches → Add files like feature_auth.py, feature_dashboard.py
+
+On bugfix/* branches → Add files like bugfix_login.py
+
+On release/* branch → Final integration files like release_notes.md
